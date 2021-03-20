@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "treefactory:blocks/chest1",
+    "up": "treefactory:blocks/chest1",
+    "north": "treefactory:blocks/chest",
+    "east": "treefactory:blocks/chest1",
+    "south": "treefactory:blocks/chest1",
+    "west": "treefactory:blocks/chest1",
+    "particle": "treefactory:blocks/chest1"
+  }
+}

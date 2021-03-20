@@ -1,0 +1,48 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Chest1",
+      "type": "gui",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chest_1"
+    },
+    {
+      "name": "Blockchest",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blockchest"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.treefactory.blockchest": "Blockchest"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "treefactory",
+    "modName": "TreeFactory",
+    "version": "1.0.0",
+    "author": "Richard Shaffer, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.4",
+    "modElementsPackage": "net.mcreator.treefactory",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100103117
+}
